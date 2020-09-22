@@ -23,6 +23,26 @@ function Cards() {
                             path="/services"
                         />
                     </ul>
+                    <ul className="cards__items">
+                        <CardItem 
+                            src="/images/tobias-keller-73F4pKoUkM0-unsplash-min.jpg"
+                            text="You will find solitude and tranquility"
+                            label="Queenstown"
+                            path="/services"
+                        />
+                        <CardItem 
+                            src="/images/ardiss-hutaff-TlZstDcYZn8-unsplash-min.jpg"
+                            text="Experience the colors of the South Island"
+                            label="Otago"
+                            path="/services"
+                        />
+                        <CardItem 
+                            src="/images/james-coleman-NtZlkNDesa0-unsplash-min.jpg"
+                            text="Watching the All Blacks will get your blood pumping"
+                            label="All Blacks"
+                            path="/services"
+                        />
+                    </ul>
                 </div>
             </div>
             
