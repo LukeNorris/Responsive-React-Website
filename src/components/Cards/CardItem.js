@@ -6,7 +6,7 @@ import '../../App.css'
 function CardItem({ path, label, src, text }) {
     return (
         <>
-        <li className="cards_item">
+        <li className="cards__item">
             <Link className="cards__item__link" to={path}>
                 <figure className="cards__item__pic-wrap" data-category={label}>
                     <img src={src} alt="NZ image" className="cards__item__img"/>
